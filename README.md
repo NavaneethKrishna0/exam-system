@@ -1,12 +1,46 @@
-# React + Vite
+📘 Online Exam Portal - Spring Boot & ReactJS
+This project is a full-stack Online Exam Portal built using Spring Boot (Java) for the backend and ReactJS for the frontend. It enables teachers to create exams by submitting questions with multiple-choice options, and stores the data efficiently in a MySQL database.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔧 Features
+Teacher login and registration
 
-Currently, two official plugins are available:
+Dynamic exam/question creation interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add questions with options (A–D) and correct answers
 
-## Expanding the ESLint configuration
+Backend validation and API integration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Seamless frontend-backend communication using REST APIs
+
+Persistent data storage with MySQL
+
+Clear separation of concerns (Spring MVC architecture)
+
+🛠️ Tech Stack
+Frontend: ReactJS, Axios, CSS
+
+Backend: Spring Boot, Spring Data JPA
+
+Database: MySQL
+
+Tools: Postman, IntelliJ IDEA, Visual Studio Code
+
+🚀 Getting Started
+Clone the repo
+
+Configure MySQL and update application.properties
+
+Run the Spring Boot backend
+
+Start the ReactJS frontend
+
+Let me know if you'd like to include instructions, screenshots, or deployment info in the README as well.
+
+
+
+
+
+
+
+
+
